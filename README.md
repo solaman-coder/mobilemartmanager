@@ -24,5 +24,3 @@ It helps in tracking stock, monitoring low inventory, managing brands/products, 
 
 ---
 
-## 📂 Project Structure
-
